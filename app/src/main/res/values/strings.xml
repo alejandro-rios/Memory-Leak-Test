@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Memory Leak Test</string>
+    <string name="application_class_leak">Application Class Leak</string>
+    <string name="kotlin_singleton_leak">Kotlin Singleton Leak</string>
+    <string name="local_variable_on_thread_leak">Local Variable on Thread Leak</string>
+    <string name="thread_field_leak">Thread Field Leak</string>
+    <string name="helper_text">Rotate the screen 5 times to create 5 leaks and trigger a foreground
+    heap dump. Or press back to cause a leak and trigger a background heap dump.
+  </string>
+</resources>
